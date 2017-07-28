@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MSingleton</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SUB_TYPE_TANG_STEP_BALL_FT">FT</string>
+    <string name="SUB_TYPE_TANG_STEP_BALL_1H">1H</string>
+    <string name="SUB_TYPE_TANG_STEP_BALL_1X2">1x2</string>
+</resources>
