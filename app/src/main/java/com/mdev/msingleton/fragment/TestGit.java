@@ -5,5 +5,7 @@ package com.mdev.msingleton.fragment;
  */
 
 public class TestGit {
-    private String JAVA = "JAVA";
+    private String JAVA = "aaaaa";
+    private int a =0;
+    
 }
